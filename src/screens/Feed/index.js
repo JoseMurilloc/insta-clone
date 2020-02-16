@@ -43,6 +43,15 @@ export default function Feed() {
       description: 'Filme que entrara nas camadas sociais e mostrara o lado escruto do ser humano',
       hastags: '#cinema #parasite',
       place: 'Filme indicado ao oscar'
+    },
+    {
+      id: '4',
+      author: 'levir.dev',
+      picture_url: 'https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/09/surprise_marvel_releases_a_new_full_trailer_and_poster_for_avengers_endgame_social.0.jpg',
+      likes: '2900',
+      description: 'Ultimo Filme da saga dos Vingadores',
+      hastags: '#cinema #ultimato',
+      place: 'Filme indicado ao oscar'
     }
   ]
   
